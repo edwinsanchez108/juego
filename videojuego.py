@@ -88,9 +88,9 @@ def magia (palabra_magica, option):
 def run():
     
     menu = """ 
-    Bienvenido a __Adivina el numero__
+    Bienvenido a __ADIVINA EL NUMERO__
 
-    Elige un nivel de dificultad
+    Elige el nivel de dificultad, por favor:
 
     1 - Fácil.       [Rango 1 - 10]
     2 - Medio.       [Rango 1 - 50]
